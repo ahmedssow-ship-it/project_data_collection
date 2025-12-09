@@ -94,7 +94,7 @@ def add_bg_from_local(image_file):
     unsafe_allow_html=True
     )
 
-# Web scraping of Vehicles data on expat-dakar
+# Web scraping of clothes-shoes data on coinafrique
 @st.cache_data
 
 def convert_df(df):
