@@ -1,11 +1,13 @@
 numpy
+streamlit==1.52.1
+pandas==2.3.3
+requests==2.32.5
 beautifulsoup4==4.12.2
-requests
 scipy
 matplotlib
-pandas
-streamlit
 seaborn
 pybase64
+
+
 
 
