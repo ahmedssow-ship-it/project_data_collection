@@ -1,12 +1,10 @@
-numpy
-streamlit==1.52.1
-pandas==2.3.3
-requests==2.32.5
-beautifulsoup4==4.12.2
-scipy
+streamlit
+pandas
+beautifulsoup4
+requests
 matplotlib
 seaborn
-pybase64
+numpy
 
 
 
